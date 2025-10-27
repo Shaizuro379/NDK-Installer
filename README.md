@@ -7,8 +7,8 @@ How to setup
 >  Open termux and input command
 > - termux-setup-storage
 >-  pkg upgrade
-> cd /sdcard/Download
-> bash setup-ndk.sh
+>- cd /sdcard/Download
+>- bash setup-ndk.sh
 
 path file for ndk : /data/media/0/ndk/
 
